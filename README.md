@@ -5,8 +5,6 @@
 
 <p>I'm a final year student at ABV IIITM Gwalior. I love solving problems and creating android and web applications. I am an enthusiastic , A highly motivated student who likes to take initiative and seek out new challenges. Other than that I love learning about new technologies.</p>
 
-- 🌱 I’m currently learning **about Web 3.0**
-
 - 📫 How to reach me **souryamanhp99@gmail.com**
 
 <br>
